@@ -3,4 +3,4 @@ Type=Application
 Terminal=true
 Name=KMyMoney-Docker
 Icon=/usr/share/icons/docker/kmymoney.jpg
-Exec=/usr/local/bin/startkmymoney.sh
+Exec=sh /usr/local/bin/startkmymoney.sh
